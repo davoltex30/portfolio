@@ -37,7 +37,7 @@ export const skillsData: SkillsData = {
     {
       name: 'TypeScript',
       icon: <Code size={24} />,
-      level: 85,
+      level: 95,
     },
     {
       name: 'HTML/CSS',
@@ -59,7 +59,7 @@ export const skillsData: SkillsData = {
     {
       name: 'Python',
       icon: <Code size={24} />,
-      level: 85,
+      level: 70,
     },
     {
       name: 'Node.js',
@@ -69,7 +69,7 @@ export const skillsData: SkillsData = {
     {
       name: 'PostgreSQL',
       icon: <Database size={24} />,
-      level: 75,
+      level: 80,
     },
     {
       name: 'MongoDB',
@@ -93,11 +93,11 @@ export const skillsData: SkillsData = {
       icon: <Smartphone size={24} />,
       level: 85,
     },
-    {
-      name: 'Mobile UI',
-      icon: <Smartphone size={24} />,
-      level: 80,
-    },
+    // {
+    //   name: 'Mobile UI',
+    //   icon: <Smartphone size={24} />,
+    //   level: 80,
+    // },
   ],
   tools: [
     {
@@ -105,11 +105,11 @@ export const skillsData: SkillsData = {
       icon: <GitBranch size={24} />,
       level: 90,
     },
-    {
-      name: 'Docker',
-      icon: <Terminal size={24} />,
-      level: 75,
-    },
+    // {
+    //   name: 'Docker',
+    //   icon: <Terminal size={24} />,
+    //   level: 75,
+    // },
     {
       name: 'Figma',
       icon: <Figma size={24} />,

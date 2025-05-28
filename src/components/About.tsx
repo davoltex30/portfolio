@@ -50,10 +50,10 @@ const About: React.FC = () => {
                   <div className="flex justify-between items-center mb-1">
                     <h4 className="font-semibold text-secondary-800">Senior Full Stack Developer</h4>
                     <span className="text-sm text-secondary-600 flex items-center">
-                      <Calendar size={14} className="mr-1" /> 2022 - Present
+                      <Calendar size={14} className="mr-1" /> 2023 - Present
                     </span>
                   </div>
-                  <p className="text-primary-600 mb-2">TechInnovate Solutions</p>
+                  <p className="text-primary-600 mb-2">Xenatik AI ltd</p>
                   <p className="text-secondary-700 text-sm">
                     Lead development of web and mobile applications using React, Next.js, and Django.
                   </p>
@@ -61,12 +61,12 @@ const About: React.FC = () => {
                 
                 <div>
                   <div className="flex justify-between items-center mb-1">
-                    <h4 className="font-semibold text-secondary-800">Full Stack Developer</h4>
+                    <h4 className="font-semibold text-secondary-800">Junior Full Stack Developer</h4>
                     <span className="text-sm text-secondary-600 flex items-center">
-                      <Calendar size={14} className="mr-1" /> 2020 - 2022
+                      <Calendar size={14} className="mr-1" /> 2022 - 2023
                     </span>
                   </div>
-                  <p className="text-primary-600 mb-2">Digital Creations Ltd</p>
+                  <p className="text-primary-600 mb-2">BickDreams Ltd</p>
                   <p className="text-secondary-700 text-sm">
                     Developed and maintained web applications with React and Django.
                   </p>
@@ -85,10 +85,10 @@ const About: React.FC = () => {
                   <div className="flex justify-between items-center mb-1">
                     <h4 className="font-semibold text-secondary-800">B.Sc. Computer Science</h4>
                     <span className="text-sm text-secondary-600 flex items-center">
-                      <Calendar size={14} className="mr-1" /> 2016 - 2020
+                      <Calendar size={14} className="mr-1" /> 2018 - 2022
                     </span>
                   </div>
-                  <p className="text-primary-600 mb-2">University of Douala</p>
+                  <p className="text-primary-600 mb-2">Estuary and Academic Institute (INSAM/IUEs)</p>
                   <p className="text-secondary-700 text-sm">
                     Specialized in Software Engineering with honors.
                   </p>

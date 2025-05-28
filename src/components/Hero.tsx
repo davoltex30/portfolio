@@ -16,7 +16,7 @@ const Hero: React.FC = () => {
           <div className="order-2 lg:order-1 animate-slide-up" style={{ animationDelay: '0.2s' }}>
             <p className="text-accent-500 font-medium mb-4">Full Stack Developer</p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-              Hello, I'm John Doe
+              Hello, I'm Neba Suh
             </h1>
             <p className="text-lg md:text-xl text-secondary-700 mb-8 max-w-xl">
               I build exceptional digital experiences for the web and mobile. Specializing in React, Next.js, Django, and React Native development.
@@ -52,15 +52,15 @@ const Hero: React.FC = () => {
           
           <div className="order-1 lg:order-2 flex justify-center animate-slide-up" style={{ animationDelay: '0.4s' }}>
             <div className="relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 bg-gradient-to-br from-primary-400 to-primary-600 rounded-full overflow-hidden shadow-2xl">
-              <img 
-                src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg" 
-                alt="John Doe" 
-                className="absolute inset-0 w-full h-full object-cover mix-blend-overlay"
+              <img
+                  src="https://i.ibb.co/MkxB7Gzt/Chat-GPT-Image-May-27-2025-12-51-27-PM.png"
+                  alt="Neba Suh"
+                className="absolute inset-0 w-full h-full object-cover"
               />
             </div>
           </div>
         </div>
-        
+
         <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
           <a href="#about" className="flex flex-col items-center text-secondary-600 hover:text-primary-600 transition-colors">
             <span className="text-sm mb-2">Scroll Down</span>
